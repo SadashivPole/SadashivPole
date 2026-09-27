@@ -34,13 +34,13 @@
 
 ### 🛡️ About Me
 
-> Cybersecurity Engineer with **1+ year of hands-on experience** supporting a **banking client in a 24×7 SOC environment** at **TechOwl InfoSec**. Focused on SOC operations, SIEM engineering, threat detection, and security automation.
+> Cybersecurity Engineer with **1+ year of hands-on experience**, including supporting a **banking client in a 24×7 SOC environment** at **TechOwl InfoSec**. Focused on SOC operations, SIEM engineering, threat detection, and security automation.
 
 I work at the intersection of **detection engineering, incident response, and automation** — turning noisy alerts into high-fidelity, explainable, and actionable security outcomes. My approach is practical, evidence-driven, and aligned to **MITRE ATT&CK**.
 
 - 🎓 **B.Com (Computers)** — Kakatiya University, 2025
-- 🛡️ Currently working as **Cyber Security Engineer @ TechOwl InfoSec**
-- 🔍 Daily work: SIEM monitoring, alert triage, phishing investigation, IOC enrichment, parser & rule development
+- 🛡️ Previous Experience: **Cyber Security Engineer @ TechOwl InfoSec**
+- 🔍 Core Experience: SIEM monitoring, alert triage, phishing investigation, IOC enrichment, parser & rule development
 - 🧠 Builder mindset: I create tools that SOC analysts actually want to use
 - 📍 Based in **India** — open to SOC Analyst / Security Engineer / Detection Engineering roles
 
